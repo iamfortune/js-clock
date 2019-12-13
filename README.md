@@ -1,2 +1,4 @@
-# js-clock
-a clock built with html, css and JavaScript
+#Kays-javascript-clock
+
+a clock built with HTML5, CSS and JavaScript. 
+
